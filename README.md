@@ -1,10 +1,10 @@
-<h1 align="center">Hey, I'm Mohamed </h1>
+<h1 align="center">Hey, I'm Mohamed</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=FF91A4&center=true&vCenter=true&width=520&lines=%24+whoami;Aspiring+Cybersecurity+Engineer;Mobile+%26+Web+Developer;Homelab+Tinkerer" alt="typing header" />
 </p>
 
-<p align="center">📍 Johannesburg, South Africa</p>
+<p align="center">Johannesburg, South Africa</p>
 
 ---
 
@@ -28,8 +28,11 @@
 ###  Featured projects
 | Project | What it is |
 |---|---|
-| [security-homelab-infrastructure](https://github.com/Mozamotala/security-homelab-infrastructure) | Self-hosted NAS: Jellyfin, Nextcloud, Immich, Frigate, ClamAV on Rockstor, with Tailscale, monitoring and alerting |
+| [security-homelab-infrastructure](https://github.com/Mozamotala/security-homelab-infrastructure) | Self-hosted Rockstor NAS running Jellyfin, Nextcloud, Immich and Frigate. Secured with Tailscale-only remote access (no open ports), ClamAV malware scanning, SMART drive monitoring and automated alerting, on a btrfs RAID1 pool |
 | [chefs-menu-app](https://github.com/Mozamotala/chefs-menu-app) | React Native app: menu entry with validation, search, edit and delete |
 | [Pawsitive](https://github.com/Mozamotala/Pawsitive) | Website for a fictional pet training academy (WIL project) |
 
-<p align="center"><code>// always learning, always breaking things (in the lab )</code></p>
+### Contact
+_Needs work, coming soon._
+
+<p align="center"><code>// always learning, always breaking things (in the lab)</code></p>
