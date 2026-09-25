@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Mohamed </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=520&lines=%24+whoami;Aspiring+Cybersecurity+Engineer;Mobile+%26+Web+Developer;Homelab+Tinkerer+%F0%9F%96%A5%EF%B8%8F" alt="typing header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=FF91A4&center=true&vCenter=true&width=520&lines=%24+whoami;Aspiring+Cybersecurity+Engineer;Mobile+%26+Web+Developer;Homelab+Tinkerer" alt="typing header" />
 </p>
 
 <p align="center">📍 Johannesburg, South Africa</p>
