@@ -38,7 +38,7 @@
 | Project | What it is |
 |---|---|
 | [security-homelab-infrastructure](https://github.com/Mozamotala/security-homelab-infrastructure) | Self-hosted Rockstor/openSUSE NAS: ~21 Docker containers (Jellyfin, Nextcloud, Immich, Frigate, the arr stack) on a btrfs RAID1 pool. Tailscale-only access with no open ports, ClamAV scanning, SMART drive monitoring, ntfy alerting, and written-up incident recoveries |
-| [Home lab & dev journey](https://github.com/Mozamotala/Mohamed-Zaeem-Motala-Journy) | The honest story of building the lab from a dead Core 2 Duo to today: outages, data loss, debugging and what I'd do differently |
+| [Home lab & dev journey](https://github.com/Mozamotala/Mohamed-Zaeem-Motala-Journey) | The honest story of building the lab from a dead Core 2 Duo to today: outages, data loss, debugging and what I'd do differently |
 
 **Apps & web**
 
