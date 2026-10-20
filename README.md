@@ -53,6 +53,8 @@
 **Outside of code:** [My other passions](https://github.com/Mozamotala/My-other-passions): cars, gardening, and the diagnose-before-you-replace mindset they taught me.
 
 ### Contact
-LinkedIn coming soon. Until then, feel free to reach out through GitHub.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-zaeem-motala-aa3780445/)
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/mohamed-zaeem-motala-aa3780445/) or reach out through GitHub.
 
 <p align="center"><code>// always learning, always breaking things (in the lab)</code></p>
