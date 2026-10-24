@@ -16,7 +16,7 @@ My first PC (2019) was a Ryzen 5 3500X with an RX 5700 XT, and the GPU died not 
 - Finishing a **Higher Certificate in Mobile App & Web Development** (IIE Varsity College, 2026)
 - Starting a **BSc IT in Security & Network Engineering** at Eduvos (2027)
 - Running a self-hosted **Rockstor NAS with ~21 Docker containers** for about two years: I build it, break it, recover it and write up what went wrong
-- Working through **OverTheWire Bandit** to sharpen my Linux skills, with TryHackMe next
+- Working through **OverTheWire Bandit** (level 16 → 17, [write-ups](https://github.com/Mozamotala/security-homelab-infrastructure/blob/main/bandit-writeups.md)) to sharpen my Linux skills, with TryHackMe next
 - Cert roadmap: **Security+ → CEH → OSCP**
 - Open to entry-level **sysadmin, NOC, SOC or junior DevOps** roles
 
