@@ -8,6 +8,9 @@
 
 ---
 
+### How I got here
+My first PC (2019) was a Ryzen 5 3500X with an RX 5700 XT, and the GPU died not long after, which I traced to driver problems. In the middle of the COVID shortage I replaced it with a new RTX 3060 Ti. Used cards cost about the same as new ones, so I went with the warranty. A couple of years later I upgraded to a Ryzen 7 5800X and added more storage. I overclocked everything I owned because I loved chasing performance, and that same itch pushed me to get an old Core 2 Duo running lightweight software and Nextcloud. It didn't last long, but it's where my [homelab](https://github.com/Mozamotala/Mohamed-Zaeem-Motala-Journey) started.
+
 ### About me
 - Aiming for **DevOps / DevSecOps**, with a long-term focus on cybersecurity
 - Finishing a **Higher Certificate in Mobile App & Web Development** (IIE Varsity College, 2026)
